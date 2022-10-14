@@ -1,4 +1,5 @@
 export * from './action';
+export * from './endpoint';
 export * from './iot-sql';
 export * from './topic-rule';
 

@@ -1,0 +1,12 @@
+{
+  "version": "21.0.0",
+  "testCases": {
+    "Endpoint/DefaultTest": {
+      "stacks": [
+        "endpoint-test-stack"
+      ],
+      "assertionStack": "Endpoint/DefaultTest/DeployAssert",
+      "assertionStackName": "EndpointDefaultTestDeployAssertA58F8E7D"
+    }
+  }
+}
